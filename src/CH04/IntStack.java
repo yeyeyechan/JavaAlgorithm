@@ -1,3 +1,5 @@
+package CH04;
+
 public class IntStack {
     private int [] stk;
     private int capacity;

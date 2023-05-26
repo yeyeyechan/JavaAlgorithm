@@ -1,3 +1,5 @@
+import CH04.IntStack;
+
 public class Factorial {
     static int factorial(int n){
         if(n >0)
